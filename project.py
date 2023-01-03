@@ -1,6 +1,7 @@
 print('Namaste Reader!This is a random story generator by Story-maker')
 import random
-
+save
+paymeny
 
 names = [' Prince',' Pratik',' Manas',' Ishaan',' Virat',' Anil',' Sahil',' Priyanshu',' Sanuj','Aman','Manan','Mohit','Pranav','Shaurya']
 
